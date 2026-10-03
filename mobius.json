@@ -1,0 +1,45 @@
+{
+  "id": "funding-wire",
+  "name": "Funding Wire",
+  "version": "0.1.0",
+  "description": "Worldwide startup funding reports, with disclosed investors and original sources.",
+  "entry": "index.jsx",
+  "icon": "icon.png",
+  "store": {
+    "tagline": "Worldwide startup funding reports — who raised, who backed them, with original sources.",
+    "description": "Funding Wire is a reading-focused feed of startup funding news from around the world, built entirely from public sources. Each report shows the company, the amount raised, the round or stage, the disclosed investors, and the publication date — with links straight back to the original articles so you can read the source yourself.\n\nSearch by company or investor, filter by region, stage, or sector, and sort by the latest reports or by the highest raise (compared in approximate US dollars using recent reference rates, with the original currency always shown). Save the companies you care about to keep their reports handy and watch for future rounds.\n\nThe feed refreshes daily from public RSS sources, with each new report verified against its publisher evidence before it appears. Coverage is uneven and never exhaustive, details that a source doesn't establish stay marked as unknown, and round amounts are kept distinct from valuations and individual investor contributions. There is no paid data subscription.\n\nYour saved companies and your feed stay private to your Möbius.",
+    "screenshots": [
+      {
+        "src": "static/store/feed.png",
+        "alt": "The Funding Wire feed listing recent startup funding reports, each showing the company, amount raised, round, region, sector, and links to the original sources.",
+        "label": "Latest source-linked funding reports"
+      },
+      {
+        "src": "static/store/highest.png",
+        "alt": "Reports sorted by highest raise, showing a large round with its disclosed valuation basis, reported backers, and an approximate US dollar comparison.",
+        "label": "Sort by highest raise, in approximate USD"
+      },
+      {
+        "src": "static/store/search.png",
+        "alt": "Searching the feed for an investor returns every report that names them, with valuations and reported backers highlighted on each company.",
+        "label": "Search by company or investor"
+      }
+    ]
+  },
+  "offline_capable": false,
+  "permissions": {},
+  "source_files": [
+    "theme.js",
+    "feed-order.mjs",
+    "collector.py",
+    "refresh-prompt.md",
+    "archive.py",
+    "discovery.py",
+    "review_import.py"
+  ],
+  "schedule": {
+    "default": "30 5 * * *",
+    "user_configurable": false,
+    "job": "job.py"
+  }
+}
