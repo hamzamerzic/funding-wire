@@ -1,0 +1,612 @@
+{
+  "version": 1,
+  "checked_at": "2026-10-02T02:23:46.159161+00:00",
+  "updated_at": "2026-10-02T02:23:46.159161+00:00",
+  "sources": [
+    {
+      "id": "africa",
+      "name": "Disrupt Africa",
+      "url": "https://disruptafrica.com/feed/",
+      "region": "Africa",
+      "ok": true,
+      "count": 2
+    },
+    {
+      "id": "asia",
+      "name": "TNGlobal",
+      "url": "https://technode.global/feed/",
+      "region": "Asia",
+      "ok": true,
+      "count": 9
+    },
+    {
+      "id": "asia-deals",
+      "name": "TNGlobal Investments",
+      "url": "https://technode.global/category/industry/investments/feed/",
+      "region": "Asia",
+      "ok": true,
+      "count": 24
+    },
+    {
+      "id": "au",
+      "name": "Startup Daily",
+      "url": "https://www.startupdaily.net/feed/",
+      "region": "Oceania",
+      "ok": true,
+      "count": 3
+    },
+    {
+      "id": "eu",
+      "name": "EU-Startups",
+      "url": "https://www.eu-startups.com/feed/",
+      "region": "Europe",
+      "ok": true,
+      "count": 7
+    },
+    {
+      "id": "latam",
+      "name": "LatamList",
+      "url": "https://latamlist.com/feed/",
+      "region": "Latin America",
+      "ok": true,
+      "count": 9
+    },
+    {
+      "id": "tc",
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "region": "Worldwide",
+      "ok": true,
+      "count": 4
+    },
+    {
+      "id": "tech-eu",
+      "name": "Tech.eu",
+      "url": "https://tech.eu/feed/",
+      "region": "Europe",
+      "ok": true,
+      "count": 17
+    }
+  ],
+  "records": [
+    {
+      "id": "ba8411b4a2ade506f723",
+      "company": "Armadin",
+      "company_key": "armadin",
+      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+      "amount": "$255.5M",
+      "stage": "Series B",
+      "backers": "Andreessen Horowitz; Accel; Bain Capital Ventures; Redpoint; 8VC; Ballistic Ventures; Google Ventures; In-Q-Tel; Kleiner Perkins; Menlo Ventures",
+      "description": "US cybersecurity startup raised financing for its agent-based security platform.",
+      "published_at": "2026-10-01T21:55:22+00:00",
+      "region": "North America",
+      "sector": "AI",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/"
+        },
+        {
+          "name": "Armadin / PRNewswire",
+          "url": "https://www.prnewswire.com/news-releases/armadin-raises-255-5-million-series-b-to-scale-effective-autonomous-security-302895278.html"
+        }
+      ],
+      "source_id": "tc"
+    },
+    {
+      "id": "e10bc08f4f6b317f52a1",
+      "company": "Revnu",
+      "company_key": "revnu",
+      "title": "AI sales startup Revnu raises €2.6 million to build team and accelerate international growth",
+      "amount": "€2.6 million",
+      "stage": "Not stated",
+      "backers": "NPIF II – PXN Equity Finance; Y Combinator",
+      "description": "Manchester sales-platform startup raised funding to grow its team and reach new markets.",
+      "published_at": "2026-10-01T14:58:47+00:00",
+      "region": "Europe",
+      "sector": "AI",
+      "sources": [
+        {
+          "name": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/10/ai-sales-startup-revnu-raises-e2-6-million-to-build-team-and-accelerate-international-growth/"
+        }
+      ],
+      "source_id": "eu"
+    },
+    {
+      "id": "c4124206305783790648",
+      "company": "Voltaback",
+      "company_key": "voltaback",
+      "title": "Voltaback raises €2.8M to scale EV charging reimbursement across Europe",
+      "amount": "€2.8M",
+      "stage": "Not stated",
+      "backers": "Serena; Aurélien de Meaux; Maxime Brousse",
+      "description": "French fleet software startup raised capital to scale EV-charging reimbursement.",
+      "published_at": "2026-10-01T14:15:00+00:00",
+      "region": "Europe",
+      "sector": "Climate & energy",
+      "sources": [
+        {
+          "name": "Tech.eu",
+          "url": "https://tech.eu/2026/10/01/voltaback-raises-eur28m-to-scale-ev-charging-reimbursement-across-europe/"
+        }
+      ],
+      "source_id": "tech-eu"
+    },
+    {
+      "id": "199e9ff185705c785baa",
+      "company": "Photon",
+      "company_key": "photon",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "amount": "$4.5M",
+      "stage": "Seed",
+      "backers": "Gradient; A*; Vercel; HongShan; Z Fellows; Llama Ventures; Karman",
+      "description": "Messaging-agent startup raised capital for tools that let developers build cross-channel agents.",
+      "published_at": "2026-10-01T14:00:00+00:00",
+      "region": "Not stated",
+      "sector": "AI",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/"
+        }
+      ],
+      "source_id": "tc"
+    },
+    {
+      "id": "197c907bb6ca7e834641",
+      "company": "Metaview",
+      "company_key": "metaview",
+      "title": "London’s Metaview raises €53.1 million Series C led by Insight Partners to scale its agentic recruiting platform",
+      "amount": "€53.1 million",
+      "stage": "Series C",
+      "backers": "Insight Partners; GV; Intrepid Growth Partners; Seedcamp; Vertex Ventures US; Plural; Garuda Ventures",
+      "description": "London recruiting platform raised a Series C to scale its AI-assisted hiring tools.",
+      "published_at": "2026-10-01T11:17:35+00:00",
+      "region": "Europe",
+      "sector": "AI",
+      "sources": [
+        {
+          "name": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/10/londons-metaview-raises-e53-1-million-series-c-led-by-insight-partners-to-scale-its-agentic-recruiting-platform/"
+        }
+      ],
+      "source_id": "eu"
+    },
+    {
+      "id": "4dc390804d079769c028",
+      "company": "Osavul",
+      "company_key": "osavul",
+      "title": "Hostile threat warning startup Osavul raises €8.5M",
+      "amount": "€8.5M",
+      "stage": "Series A",
+      "backers": "33N Ventures; Balnord; G+D Ventures; 42CAP",
+      "description": "Threat-detection startup raised a Series A to develop its security platform.",
+      "published_at": "2026-10-01T09:20:00+00:00",
+      "region": "Europe",
+      "sector": "AI",
+      "sources": [
+        {
+          "name": "Tech.eu",
+          "url": "https://tech.eu/2026/10/01/hostile-threat-warning-startup-osavul-raises-8-5m/"
+        }
+      ],
+      "source_id": "tech-eu"
+    },
+    {
+      "id": "57c1c364a7f270eec609",
+      "company": "Deepslate",
+      "company_key": "deepslate",
+      "title": "Deepslate secures €7.7M for its European voice AI platform",
+      "amount": "€7.7M",
+      "stage": "Seed",
+      "backers": "42CAP; Alstin Capital; SIVentures",
+      "description": "Berlin voice-AI company raised a seed round for its speech-to-speech platform.",
+      "published_at": "2026-10-01T08:00:00+00:00",
+      "region": "Europe",
+      "sector": "AI",
+      "sources": [
+        {
+          "name": "Tech.eu",
+          "url": "https://tech.eu/2026/10/01/deepslate-secures-eur77m-for-its-european-voice-ai-platform/"
+        }
+      ],
+      "source_id": "tech-eu"
+    },
+    {
+      "id": "c35cc1636baa895fcef1",
+      "company": "Foundational",
+      "company_key": "foundational",
+      "title": "Foundational secures £8.2M pre-seed as it emerges from stealth",
+      "amount": "£8.2M",
+      "stage": "Pre-seed",
+      "backers": "Inflection; BACKED; Final Frontier; Adjacent; Type One Ventures",
+      "description": "London satellite-positioning startup raised pre-seed financing as it emerged from stealth.",
+      "published_at": "2026-10-01T07:00:00+00:00",
+      "region": "Europe",
+      "sector": "Space",
+      "sources": [
+        {
+          "name": "Tech.eu",
+          "url": "https://tech.eu/2026/10/01/foundational-secures-ps82m-pre-seed-as-it-emerges-from-stealth/"
+        },
+        {
+          "name": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/10/londons-foundational-exits-stealth-with-e9-6-million-to-track-satellites-and-debris-with-millimetre-level-precision/"
+        }
+      ],
+      "source_id": "tech-eu"
+    },
+    {
+      "id": "be723224266e11065253",
+      "company": "FRANK",
+      "company_key": "frank",
+      "title": "FRANK raises €2.9M to cut paperwork for insurance brokers",
+      "amount": "€2.9M",
+      "stage": "Not stated",
+      "backers": "Armilar; Start Ventures",
+      "description": "Portuguese insurance-broker software startup raised capital for product development and expansion.",
+      "published_at": "2026-10-01T06:00:00+00:00",
+      "region": "Europe",
+      "sector": "Fintech",
+      "sources": [
+        {
+          "name": "Tech.eu",
+          "url": "https://tech.eu/2026/10/01/frank-raises-eur29m-to-cut-paperwork-for-insurance-brokers/"
+        }
+      ],
+      "source_id": "tech-eu"
+    },
+    {
+      "id": "9e01040ac88f1b70b6f6",
+      "company": "R2Crete",
+      "company_key": "r2crete",
+      "title": "Melbourne Uni concrete recycling spinout cements $750,000 pre-Seed",
+      "amount": "$750,000",
+      "stage": "Pre-seed",
+      "backers": null,
+      "description": "Melbourne university spinout raised pre-seed funding for concrete-recycling technology.",
+      "published_at": "2026-10-01T01:24:48+00:00",
+      "region": "Oceania",
+      "sector": "Climate & energy",
+      "sources": [
+        {
+          "name": "Startup Daily",
+          "url": "https://www.startupdaily.net/topic/funding/melbourne-uni-concrete-recycling-spinout-cements-750000-pre-seed/"
+        }
+      ],
+      "source_id": "au"
+    },
+    {
+      "id": "98674c9d474a6f995785",
+      "company": "Jeeves",
+      "company_key": "jeeves",
+      "title": "Jeeves raises $110M led by CoinFund",
+      "amount": "$110M",
+      "stage": "Not stated",
+      "backers": "CoinFund; AllianceBernstein; Andreessen Horowitz; Coinbase Ventures; CRV; GIC; Global PayTech Ventures; ParaFi; Vista; Wintermute; Y Combinator",
+      "description": "Corporate payments platform raised capital for product and international expansion.",
+      "published_at": "2026-09-30T20:31:29+00:00",
+      "region": "Not stated",
+      "sector": "Fintech",
+      "sources": [
+        {
+          "name": "LatamList",
+          "url": "https://latamlist.com/jeeves-raises-110m-led-by-coinfund/"
+        }
+      ],
+      "source_id": "latam"
+    },
+    {
+      "id": "bc1860b36776581f0a56",
+      "company": "Restate",
+      "company_key": "restate",
+      "title": "Berlin-based Restate raises $20M",
+      "amount": "$20M",
+      "stage": "Series A",
+      "backers": "Singular; Redpoint Ventures; Capital One Ventures",
+      "description": "Berlin-founded software infrastructure startup raised a Series A for US expansion.",
+      "published_at": "2026-09-30T14:00:00+00:00",
+      "region": "Europe",
+      "sector": "AI",
+      "sources": [
+        {
+          "name": "Tech.eu",
+          "url": "https://tech.eu/2026/09/30/berlin-based-restate-raises-20m/"
+        }
+      ],
+      "source_id": "tech-eu"
+    },
+    {
+      "id": "9bc0f2991874557a1319",
+      "company": "Inbolt",
+      "company_key": "inbolt",
+      "title": "Inbolt raises €11M to bring real-time vision and intelligence to industrial robots",
+      "amount": "€11M",
+      "stage": "Not stated",
+      "backers": "Shift4Good; Bridges Climate Transition Partners; BNP Paribas Développement; Ora Global",
+      "description": "Paris robotics company raised capital for international expansion and new industrial markets.",
+      "published_at": "2026-09-30T10:34:24+00:00",
+      "region": "Europe",
+      "sector": "Robotics",
+      "sources": [
+        {
+          "name": "Tech.eu",
+          "url": "https://tech.eu/2026/09/30/inbolt-raises-eur11m-to-bring-real-time-vision-and-intelligence-to-industrial-robots/"
+        },
+        {
+          "name": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/09/paris-based-inbolt-raises-e11-million-to-give-industrial-robots-real-time-vision-and-intelligence/"
+        }
+      ],
+      "source_id": "tech-eu"
+    },
+    {
+      "id": "f9230aed6bd839e5967b",
+      "company": "Paymob",
+      "company_key": "paymob",
+      "title": "Egyptian fintech startup Paymob raises $35m pre-Series C funding round",
+      "amount": "US$35 million",
+      "stage": "Pre-Series C",
+      "backers": "Mubadala Investment Company; European Bank for Reconstruction and Development; British International Investment; Global Ventures; DPI Ventures",
+      "description": "Egyptian payments infrastructure provider raised capital to expand across MENA.",
+      "published_at": "2026-09-30T06:00:46+00:00",
+      "region": "Africa",
+      "sector": "Fintech",
+      "sources": [
+        {
+          "name": "Disrupt Africa",
+          "url": "https://disruptafrica.com/2026/09/30/egyptian-fintech-startup-paymob-raises-35m-pre-series-c-funding-round/"
+        },
+        {
+          "name": "Mubadala",
+          "url": "https://www.mubadala.com/en/news/paymob-raises-35-million-in-pre-series-c-round-co-led-by-mubadala-and-ebrd"
+        }
+      ],
+      "source_id": "africa"
+    },
+    {
+      "id": "66e67501a606f063d4fa",
+      "company": "Galgo",
+      "company_key": "galgo",
+      "title": "Galgo secures $55M credit facility from BBVA Spark",
+      "amount": "$55M",
+      "stage": "Debt",
+      "backers": "BBVA Spark",
+      "description": "Chilean motorcycle-financing platform secured a credit facility for its Mexico portfolio.",
+      "published_at": "2026-09-29T15:12:13+00:00",
+      "region": "Latin America",
+      "sector": "Fintech",
+      "sources": [
+        {
+          "name": "LatamList",
+          "url": "https://latamlist.com/galgo-secures-55m-credit-facility-from-bbva-spark/"
+        }
+      ],
+      "source_id": "latam"
+    },
+    {
+      "id": "6c91ac7cdde98ca5b5fd",
+      "company": "iPiD",
+      "company_key": "ipid",
+      "title": "Singapore fintech iPiD raises $16M Series A led by Foundation Capital",
+      "amount": "$16M",
+      "stage": "Series A",
+      "backers": "Foundation Capital; Citi; HSBC; QED Investors; Monk’s Hill Ventures; Quona Capital",
+      "description": "Singapore payment-verification company raised a Series A to expand its network.",
+      "published_at": "2026-09-25T01:37:07+00:00",
+      "region": "Asia",
+      "sector": "Fintech",
+      "sources": [
+        {
+          "name": "TNGlobal Investments",
+          "url": "https://technode.global/2026/09/25/singapore-ipid-16m-series-a-foundation-capital/"
+        }
+      ],
+      "source_id": "asia-deals"
+    },
+    {
+      "id": "3651fa2447e8827e1da3",
+      "company": "Ultraviolette",
+      "company_key": "ultraviolette",
+      "title": "India’s Ultraviolette raises $85M to scale EV production and global expansion",
+      "amount": "$85M",
+      "stage": "Not stated",
+      "backers": "Yali Capital; TDK Ventures; Lip-Bu Tan",
+      "description": "Indian electric-motorcycle maker raised funding for production and overseas expansion.",
+      "published_at": "2026-09-24T10:50:24+00:00",
+      "region": "Asia",
+      "sector": "Climate & energy",
+      "sources": [
+        {
+          "name": "TNGlobal Investments",
+          "url": "https://technode.global/2026/09/24/ultraviolette-85m-ev-funding-global-expansion/"
+        }
+      ],
+      "source_id": "asia-deals"
+    },
+    {
+      "id": "c9a9368f59b5cbd69b51",
+      "company": "Nuvia",
+      "company_key": "nuvia",
+      "title": "Nuvia raises $1.8M to expand AI sales agents across Latin America",
+      "amount": "$1.8M",
+      "stage": "Not stated",
+      "backers": "Amador Capital; Nascent; NXTP; Crivo Ventures; Delusional Capital; Spectra Investimentos",
+      "description": "Brazilian sales-agent startup raised capital for product development and regional growth.",
+      "published_at": "2026-09-23T18:35:45+00:00",
+      "region": "Latin America",
+      "sector": "AI",
+      "sources": [
+        {
+          "name": "LatamList",
+          "url": "https://latamlist.com/nuvia-raises-1-8m-to-expand-ai-sales-agents-across-latin-america/"
+        }
+      ],
+      "source_id": "latam"
+    },
+    {
+      "id": "8c5923c93406d6953ec9",
+      "company": "NG.CASH",
+      "company_key": "ngcash",
+      "title": "NG.CASH raises $15M from Blockchain Capital",
+      "amount": "$15M",
+      "stage": "Not stated",
+      "backers": "Blockchain Capital",
+      "description": "Brazilian fintech raised capital for blockchain products and expanded credit services.",
+      "published_at": "2026-09-23T18:24:13+00:00",
+      "region": "Latin America",
+      "sector": "Fintech",
+      "sources": [
+        {
+          "name": "LatamList",
+          "url": "https://latamlist.com/ng-cash-raises-15m-from-blockchain-capital/"
+        }
+      ],
+      "source_id": "latam"
+    },
+    {
+      "id": "435441348692d283c68f",
+      "company": "3cat",
+      "company_key": "3cat",
+      "title": "Malaysia’s 3cat raises $4M Series A for Philippines expansion",
+      "amount": "$4M",
+      "stage": "Series A",
+      "backers": "Foxmont Capital Partners; Asian Development Bank; Golden Gate Ventures",
+      "description": "Malaysian refurbished-electronics company raised a Series A for entry into the Philippines.",
+      "published_at": "2026-09-23T02:59:16+00:00",
+      "region": "Asia",
+      "sector": "Other",
+      "sources": [
+        {
+          "name": "TNGlobal Investments",
+          "url": "https://technode.global/2026/09/23/malaysia-3cat-4m-series-a-philippines-expansion/"
+        }
+      ],
+      "source_id": "asia-deals"
+    },
+    {
+      "id": "0dde1d7a9381974a66ea",
+      "company": "Nexstrom",
+      "company_key": "nexstrom",
+      "title": "Singapore’s Nexstrom raises $12M to scale 12-inch 2D semiconductor platform",
+      "amount": "$12M",
+      "stage": "Seed",
+      "backers": "Xora Innovation; Foothill Ventures; SEEDS",
+      "description": "Singapore semiconductor startup raised seed funding for a wafer-scale materials platform.",
+      "published_at": "2026-09-23T00:31:41+00:00",
+      "region": "Asia",
+      "sector": "Other",
+      "sources": [
+        {
+          "name": "TNGlobal Investments",
+          "url": "https://technode.global/2026/09/23/singapore-nexstrom-12m-seed-12-inch-2d-semiconductor-platform/"
+        }
+      ],
+      "source_id": "asia-deals"
+    },
+    {
+      "id": "09b5f61b361ac22f8f58",
+      "company": "AMentoria",
+      "company_key": "amentoria",
+      "title": "AMentoria raises $196K seed round to expand education platform in Brazil",
+      "amount": "$196K",
+      "stage": "Seed",
+      "backers": "Triaxis Capital; Crescera Capital; Insper Angels; Anjos do Brasil; Cristiano Faé; Adriano Silveira; WOW Aceleradora",
+      "description": "Brazilian education platform raised seed funding to expand its mentoring service.",
+      "published_at": "2026-09-22T16:37:45+00:00",
+      "region": "Latin America",
+      "sector": "Education",
+      "sources": [
+        {
+          "name": "LatamList",
+          "url": "https://latamlist.com/amentoria-raises-196k-seed-round-to-expand-education-platform-in-brazil/"
+        }
+      ],
+      "source_id": "latam"
+    },
+    {
+      "id": "015540c6700059d2d810",
+      "company": "OrderEAT",
+      "company_key": "ordereat",
+      "title": "OrderEAT raises $2M to expand school cafeteria platform",
+      "amount": "$2M",
+      "stage": "Not stated",
+      "backers": "Chile Ventures; Driven VC; Add Ventures; Seedstars; Sergio Fogel; Avedis Boudakian",
+      "description": "School-cafeteria software provider raised capital to expand across Latin America.",
+      "published_at": "2026-09-21T16:41:55+00:00",
+      "region": "Latin America",
+      "sector": "Education",
+      "sources": [
+        {
+          "name": "LatamList",
+          "url": "https://latamlist.com/ordereat-raises-2m-to-expand-school-cafeteria-platform/"
+        }
+      ],
+      "source_id": "latam"
+    },
+    {
+      "id": "98b0c7b274250e5cb4ab",
+      "company": "Anew Labs",
+      "company_key": "anewlabs",
+      "title": "ByteDance AI drug discovery spin-off Anew Labs raises $290M at $1.5B valuation",
+      "amount": "$290M",
+      "stage": "Not stated",
+      "backers": "HSG; IDG Capital; GL Ventures; 5Y Capital; Gaorong Ventures; Primavera Venture Partners; Boyu Capital; SBP Group; Shanghai Future Industries Fund",
+      "description": "Shanghai AI drug-discovery spinout raised its first external financing.",
+      "published_at": "2026-09-17T04:17:47+00:00",
+      "region": "Asia",
+      "sector": "Health",
+      "sources": [
+        {
+          "name": "TNGlobal Investments",
+          "url": "https://technode.global/2026/09/17/bytedance-ai-drug-spin-off-anew-labs-raises-290m/"
+        }
+      ],
+      "source_id": "asia-deals"
+    },
+    {
+      "id": "606b4014ee0516eb05ce",
+      "company": "Emilia AI",
+      "company_key": "emiliaai",
+      "title": "Emilia AI raises $1.5M pre-seed round led by Prosus",
+      "amount": "$1.5M",
+      "stage": "Pre-seed",
+      "backers": "Prosus",
+      "description": "Colombian-founded restaurant analytics startup raised pre-seed capital to develop its platform.",
+      "published_at": "2026-09-15T23:06:57+00:00",
+      "region": "Latin America",
+      "sector": "AI",
+      "sources": [
+        {
+          "name": "LatamList",
+          "url": "https://latamlist.com/emilia-ai-raises-1-5m-pre-seed-round-led-by-prosus/"
+        }
+      ],
+      "source_id": "latam"
+    },
+    {
+      "id": "f801a121ae383b687291",
+      "company": "A5X",
+      "company_key": "a5x",
+      "title": "A5X raises $70M Series D",
+      "amount": "$70M",
+      "stage": "Series D",
+      "backers": "Morgan Stanley; Goldman Sachs; Kaszek; IMC; Jump Trading; Optiver; XTX Markets; XP; ABN AMRO Clearing",
+      "description": "Brazilian derivatives-exchange startup raised a Series D for market development.",
+      "published_at": "2026-09-15T22:54:08+00:00",
+      "region": "Latin America",
+      "sector": "Fintech",
+      "sources": [
+        {
+          "name": "LatamList",
+          "url": "https://latamlist.com/a5x-raises-70m-series-d/"
+        }
+      ],
+      "source_id": "latam"
+    }
+  ],
+  "refresh_enabled": true,
+  "cadence": "Daily",
+  "refresh_note": "Checks public sources daily at 05:30 in your Möbius timezone. New evidence is reviewed with your configured Möbius agent and uses normal model usage; unchanged evidence does not start another review. No paid news-data subscription."
+}
